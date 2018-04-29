@@ -1,2 +1,4 @@
 # test
-sql practice
+sql practice for git cmds
+commit
+
